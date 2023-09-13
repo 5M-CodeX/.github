@@ -23,11 +23,9 @@
   </a>
 </p>
 
-## Looking for support for one of our resources?
-[Join Discord](https://discord.gg/E3MSBXFwgr)
 
-### Discord Widget
-<iframe src="https://discord.com/widget?id=1112062379476394124&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+### Join our Discord Community
+[![Discord](https://img.shields.io/discord/1112062379476394124?color=7289DA&label=Discord&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/E3MSBXFwgr)
 
 ## Frequently Asked Questions (FAQ)
 ### What is FiveM CodeX?
