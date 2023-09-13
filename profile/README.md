@@ -26,6 +26,9 @@
 ## Looking for support for one of our resources?
 [Join Discord](https://discord.gg/E3MSBXFwgr)
 
+### Discord Widget
+<iframe src="https://discord.com/widget?id=1112062379476394124&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ## Frequently Asked Questions (FAQ)
 ### What is FiveM CodeX?
 FiveM CodeX is a community focused on development and resources for FiveM and other related assets. It provides a platform for developers to showcase their projects, collaborate with others, and find helpful resources.
