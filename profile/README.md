@@ -1,6 +1,8 @@
 # 💫 About Me:
 🐻 Beary Funny<br>📘 Learning Each Day live<br>#️⃣ Virtual Identity Designer
+# We've moved!
 
+https://discord.com/invite/jvC9uMDD82
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/andys-development-857672921912836116) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@discordsolutions) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCJDV9acrrg4IUFxxpIpRP9w) 
